@@ -14,8 +14,8 @@ class MainApp extends Component {
     links: [
       {title:'Google', url: 'https://www.google.com/'},
       {title:'Youtube', url: 'https://www.Youtube.com/'},
-      {title:'Jalan Tikus', url: 'https://jalantikus.com/'},
-      {title:'Viva', url: 'http://www.viva.co.id/'},
+      {title:'Facebook', url: 'https://facebook.com/'},
+      {title:'Gmail', url: 'http://www.gmail.com/'},
     ],
   };
 
